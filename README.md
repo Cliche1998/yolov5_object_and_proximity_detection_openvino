@@ -1,0 +1,2 @@
+# yolov5_object_and_proximity_detection_openvino
+OpenVino implementation of Yolov5 object detection and proximity detection with incident generation
